@@ -18,11 +18,11 @@ Our team **Gryffindor** achieved **1st place 🏆** in the competition.
 
 ---
 
-## 👥 Team Members
+## 👥 Team Gryffindor
 
 This project was done as part of a team collaboration.
 
-- Rahma Elnabarawy
-- Mariam Abdelmoneim
-- Maryam Alaa
-- Eman Sameh
+- [Rahma Elnabarawy](https://github.com/rahmaelnabarawy)
+- [Mariam Abdelmoneim](https://github.com/MariamAbdelmoneim02)
+- [Maryam Alaa](https://github.com/MARYAM-ALAA)
+- [Eman Sameh](https://github.com/eman-sameh)
