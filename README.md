@@ -14,8 +14,9 @@ Our team **Gryffindor** achieved **1st place 🏆** in the competition.
   - Data cleaning 
   - Exploratory Data Analysis (EDA)  
   - preprocessing & Feature engineering  
-  - Machine learning modeling  
-
+  - Machine learning modeling
+- **Additional Deliverables:**
+Interactive Power BI Dashboard for insights and visualization
 ---
 
 ## 👥 Team Gryffindor
